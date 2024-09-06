@@ -11,4 +11,4 @@ Esta é uma aplicação web projetada para fornecer informações sobre jogos el
 * JavaScript
 
 **Site**
-
+Jogos em Alta 2024 ([buscagames.vercel.app](https://buscagames.vercel.app))
