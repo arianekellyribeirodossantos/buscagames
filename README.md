@@ -10,5 +10,5 @@ Esta é uma aplicação web projetada para fornecer informações sobre jogos el
 * CSS
 * JavaScript
 
-**Configuração:**
+**Site**
 
