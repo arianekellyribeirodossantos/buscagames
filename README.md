@@ -12,3 +12,6 @@ Esta é uma aplicação web projetada para fornecer informações sobre jogos el
 
 **Site**
 Jogos em Alta 2024 ([buscagames.vercel.app](https://buscagames.vercel.app))
+
+**Youtube**
+Canal do youtube ([https://youtu.be/S2zgZgeBi3I](https://youtu.be/S2zgZgeBi3I))
